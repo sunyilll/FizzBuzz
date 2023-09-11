@@ -3,5 +3,6 @@ public class Main {
         FizzBuzz.doFizzBuzz(5);
         String[] arguments = new String[] {"123"};
         FizzBuzz.main(arguments);
+        System.out.println("yay!");
     }
 }
